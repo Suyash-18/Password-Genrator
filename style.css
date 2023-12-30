@@ -2,14 +2,11 @@ body{
     margin: 0;
     padding: 0;
     background: #233070;
-    
-}
-
-.main{
     max-height: 100vh;
     max-width: 100vw;
-    
 }
+
+
 
 .generator{
     position: relative;
