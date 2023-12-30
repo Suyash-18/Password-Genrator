@@ -2,8 +2,9 @@ body{
     margin: 0;
     padding: 0;
     background: #233070;
-    max-height: 100vh;
-    max-width: 100vw;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
 }
 
 
@@ -11,8 +12,8 @@ body{
 .generator{
     position: relative;
     font-family: 'Arial Narrow Bold', sans-serif;
-    top: 20%;
-    left: 20%;
+    margin: 5em;
+   
 }
 
 .heading{
